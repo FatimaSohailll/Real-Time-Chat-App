@@ -8,7 +8,6 @@ A real-time chat application built with **MERN**, and **Socket.io**. This app al
 * Real-time messaging between users using Socket.io
 * Display of online/offline users
 * User profile management (uploading profile photo, viewing name and email)
-* Responsive design for desktop and mobile
 * Support for sending images and messages
   
 ## Tech Stack
