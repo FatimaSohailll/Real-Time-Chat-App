@@ -1,7 +1,3 @@
-Here’s a professional and structured **README** for your chat app project. You can customize it further with your project-specific details:
-
----
-
 # Chat App
 
 A real-time chat application built with **MERN**, and **Socket.io**. This app allows users to register, log in, and chat with other users in real-time with a user-friendly interface.
