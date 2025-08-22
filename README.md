@@ -1,4 +1,4 @@
-# Chat App
+# Real-Time Chat App
 
 A real-time chat application built with **MERN**, and **Socket.io**. This app allows users to register, log in, and chat with other users in real-time with a user-friendly interface.
 
