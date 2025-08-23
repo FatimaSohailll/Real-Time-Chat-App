@@ -83,9 +83,6 @@ npm run dev
 ### Chat Interface
 ![Chat Interface](frontend/public/screenshots/chat.PNG)
 
-## Inspiration
-
-This project is an ispiration of https://www.youtube.com/watch?v=ntKkVrQqBYY
 
 ## License
 
